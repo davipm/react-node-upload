@@ -1,5 +1,5 @@
 # Uploading Images
-Automating image upload using AWS with React and Node.js, varies image size with animated upload time.
+Automating image uploads using AWS with React and Node.js checks image size with animated upload time.
 
 ## Built With
 
